@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top-section {
+    background-image: url(assets/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-image {
+    width: 100%;
+}
+
+.heading {
+    left: 50%;
+    top: 50%;
+}
+
+.heading h1,
+p {
+    color: black;
+}
+
+.heading {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.donate-button {
+    text-decoration: none;
+    background: #FF5959;
+    padding: 8px 12px;
+    color: #FFFFFF;
+    font-weight: 700;
+    border-radius: 5px;
+}
