@@ -221,7 +221,9 @@ input[type=email] {
     margin-left: -4px;
 }
 
-footer {
+.thank-you {
+
+
 
     /* top: 0%;
     margin-bottom: 0%;
@@ -238,5 +240,24 @@ footer {
 
     /* Default / Black */
 
-    background: #0B0D17;
+    background-color: black;
+    padding: 40px;
+    margin-top: 8%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+
+}
+
+.thank-you h1 {
+    text-align: center;
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+    font-weight: 200;
+
+}
+
+.thank-you p {
+    text-align: center;
+    color: #FFFFFF;
 }
