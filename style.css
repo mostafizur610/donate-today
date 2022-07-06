@@ -199,25 +199,44 @@ input[type=text] {
 
 input[type=email] {
     width: 40%;
-    padding: 11px 11px;
+    padding: 12.3px 11px 10.1px 11px;
     border: none;
     background-color: rgb(236, 240, 241);
-    border-radius: 5px;
     box-sizing: border-box;
+    display: inline-block;
+
 }
 
-/* .top-image {
-    width: 100%;
+.subscribe-button {
+    background-color: #487c4a;
+    border: none;
+    color: white;
+    padding: 7px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: -4px;
 }
 
+footer {
 
+    /* top: 0%;
+    margin-bottom: 0%;
+    left: 0%;
+    right: 0%;
+    text-align: center;
+    background-color: black;
+    color: #FF5959; */
+    /* position: absolute; */
+    /* left: 0%;
+    right: 0%;
+    top: 95.52%;
+    bottom: 0%; */
 
-.heading h1,
-p {
-    color: #FFFFFF;
+    /* Default / Black */
+
+    background: #0B0D17;
 }
-
-
-.donate {
-    color: black;
-} */
