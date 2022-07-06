@@ -5,13 +5,19 @@ body {
 }
 
 .heading {
-    color: #FFFFFF;
+    color: #f1f1eb;
     text-align: center;
+    font-weight: 700;
+}
+
+.heading h1 {
+    font-size: 50px;
+    color: #86f18a;
 }
 
 .donate-button {
     text-decoration: none;
-    background: #FF5959;
+    background: #5909ee;
     padding: 8px 12px;
     color: #FFFFFF;
     font-weight: 700;
