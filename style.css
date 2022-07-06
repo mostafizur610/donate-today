@@ -95,7 +95,6 @@ body {
     font-weight: 700;
 }
 
-
 #z {
     border: none;
     padding-left: 16px;
@@ -105,7 +104,22 @@ body {
     font-weight: 700;
 }
 
+.other-amount {
+    border-bottom: #FF5959;
+    padding-top: 40px;
+    padding-bottom: 20px;
 
+}
+
+input[type=text] {
+    text-align: center;
+    width: 30%;
+    padding: 10px 20px;
+    margin: 8px 10px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid lightgray;
+}
 
 /* .top-image {
     width: 100%;
